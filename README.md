@@ -54,3 +54,8 @@ Don't forget to use shake gesture after finding current weather information for 
 ## Authors
 
 * **Kasia Vasiluk** - *Hamster Bay* [github: Chomcio](https://github.com/chomcio)
+
+## Assets
+
+* [Weather Icons](https://erikflowers.github.io/weather-icons/)
+* [Readme](https://github.com/erikflowers/weather-icons) file for that
