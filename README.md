@@ -53,7 +53,7 @@ Don't forget to use shake gesture after finding current weather information for 
 
 ## Authors
 
-* **Kasia Vasiluk** - *Hamster Bay* [github: Chomcio](https://github.com/chomcio)
+* **Kasia Vasiluk** - *Hamster Bay* [github: HamsterBay](https://github.com/HamsterBay)
 
 ## Assets
 
